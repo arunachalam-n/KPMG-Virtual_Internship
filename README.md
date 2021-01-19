@@ -16,3 +16,10 @@ i.e. understanding the data distributions, feature engineering, data transformat
 
 **Task 3**<br>
 Develop a dashboard that we can present to the client. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).  Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.  
+
+## Learnings <br>
+**Data_Quality_Analysis**<br>
+**Data Analytics**<br>
+**Customer_Segmentation**<br>
+**Data_dashboards**<br>
+
